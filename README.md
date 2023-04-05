@@ -10,5 +10,6 @@ In the code example I provided using the random forest regressor, we first defin
 By splitting the data into input features and target variable, we can train our model to predict the next number in the sequence based on the previous numbers in the sequence. The input features (X_train) and target variable (y_train) are used to fit the random forest regressor model. Once the model is trained, we can use it to predict the next number in the sequence by passing in the last number in the sequence as the input feature.
 
 Among all the algorithms Linear regression has shown a good and close result.
+# Application:
 These kind of algorithms can be used to solve the aptitude problems.
 This algorithm helps us to eliminate the options in the problem easily.
